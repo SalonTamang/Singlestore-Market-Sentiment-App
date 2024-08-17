@@ -28,7 +28,7 @@ DB_PORT={your_singlestore_port}
 ALPHA_KEY={your_alpha_api_key}
 OPENAI_API_KEY={your_openai_api_key}
 ```
-If you are struggling with this, please watch the full tutorial on Code With Ania Kubow.
+Thanks to `Code With Ania Kubow` for this amazing project.
 
 ### 3. Run `npm i`
 
